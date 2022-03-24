@@ -1,0 +1,58 @@
+.logo-size{
+    width: 30px;
+    margin-left: 4px;
+}
+.bg-color{
+    background: #3f51b5;
+}
+.reset{
+    background-color:#f54081 ;
+    border: none;
+}
+.proceed{
+    background-color: rgba(0,0,0,.12);
+
+    cursor: default;
+}
+.font-color{
+    color: #f54081;
+}
+div>a:hover{
+    color: #f54081;
+}
+
+.header-width{
+    height: 75px;
+}
+.header-down{
+    height: 132px;
+}
+.form-control{
+    outline:none;
+    border-width: 0 0 1px;
+    border-color: black;
+    border-radius:0;
+}
+.hover-text:hover{
+    font-weight: bold;
+}
+.Bharath-bill-size{
+    width: 59px;
+}
+.covid-size{
+    width: 100%;
+    max-height: 100%;
+    border-radius: 5px;
+}
+.privacy-policy{
+    font-size: 9px;
+}
+.free-to-call{
+    color:#3f51b5;
+}
+.error{
+    font-size: 12px;
+    color: red;
+    border-color: red;
+}
+
